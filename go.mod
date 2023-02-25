@@ -29,10 +29,8 @@ require (
 	github.com/spf13/cobra v0.0.0-20170820023359-4a7b7e65864c
 	github.com/spf13/pflag v1.0.0 // indirect
 	github.com/stretchr/testify v1.1.4
-	golang.org/x/net v0.0.0-20170809000501-1c05540f6879 // indirect
 	golang.org/x/oauth2 v0.0.0-20170807180024-9a379c6b3e95
-	golang.org/x/sync v0.0.0-20190423024810-112230192c58 // indirect
-	golang.org/x/text v0.0.0-20170814122439-e56139fd9c5b // indirect
+	golang.org/x/text v0.3.8 // indirect
 	google.golang.org/api v0.0.0-20170817203427-ed10e890a836 // indirect
 	google.golang.org/appengine v0.0.0-20170814190942-d9a072cfa7b9 // indirect
 )
